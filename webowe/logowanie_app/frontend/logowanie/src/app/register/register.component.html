@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h3>Rejestracja użytkownika w serwisie</h3>
+
+      <div class="card mt-3">
+        <div class="card-body">
+          <h5 class="card-title">Dane rejstracji:</h5>
+            <form (ngSubmit)="register()">
+              <div class="form-group">
+                <label for="username">Nazwa użytkownika</label>
+                <input type="text" name="username" id="username" required [(ngModel)]="user.username" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="password">Hasło</label>
+                <input type="password" name="password" id="password" required [(ngModel)]="user.password" class="form-control">
+              </div>
+              <br>
+              <button type="submit" class="btn btn-success">Rejestruj</button>
+            </form>
+
+            <div *ngIf="isSubmited">
+              <div *ngIf="komunikat; else errorTemplate" class="alert alert-success">
+                  Zarejestrowano pomyślnie użytkownika <b>{{ userRegistered }}</b>. Możesz się zalogować:
+                  <a class="nav-link" routerLink="/login">tutaj</a>
+              </div>
+              <ng-template #errorTemplate>
+                <div class="alert alert-danger">Wystąpił błąd rejestracji</div>
+              </ng-template>
+            </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
