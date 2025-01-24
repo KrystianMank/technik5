@@ -26,9 +26,12 @@ export class LoginComponent {
     this.http.post<any>(`${this.apiUrl}/login`, this.user).subscribe({
       next: (response => {
         this.komunikat = true;
+        localStorage.setItem('authToken',response.authToken);
+        localStorage.setItem('isLoggedIn','true');
+
         setTimeout(() => {
           this.router.navigate(['/panel']);
-        }, 5000);
+        }, 2000);
       }),
       error: (error => {
         this.komunikat = false;

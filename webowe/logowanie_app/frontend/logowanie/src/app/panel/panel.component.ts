@@ -11,9 +11,14 @@ import { Router } from '@angular/router';
 })
 export class PanelComponent {
   constructor(private router: Router){
-
+    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+    if(!isLoggedIn){
+      this.router.navigate(['/login']);
+    }
   }
   logout(){
+    localStorage.removeItem('authToken');
+    localStorage.removeItem('isLoggedIn');
     this.router.navigate(['/login']);
   }
 }
