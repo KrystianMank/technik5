@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\page2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\page2.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\page1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\page1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\aplikacje_wielookinkowe\\aplikacje_wielookinkowe\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{72A4CEB5-17D3-45F8-A54B-AF717A908487}|Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe.csproj|solutionrelative:aplikacje_wielookinkowe\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page1.xaml.cs",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\Page1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:29:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page2.xaml.cs",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\Page2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:29:37.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page2.xaml",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\Page2.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page2.xaml*",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\Page2.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:25:19.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page1.xaml",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\Page1.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\Page1.xaml",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:20:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\MainWindow.xaml",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:12:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacje_Wielookinkowe\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Aplikacje_Wielookinkowe\\Aplikacje_Wielookinkowe\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aplikacje_Wielookinkowe\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:12:35.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

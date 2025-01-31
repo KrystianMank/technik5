@@ -1,0 +1,36 @@
+<div class="container">
+  <h1>Kategorie zdjęć</h1>
+  <div class="form-check-inline form-switch">
+    <input class="form-check-input" type="checkbox" id="kwiaty" name="kwiaty" checked (change)="filtrowanie(0)">
+    <label class="form-check-label" for="kwiaty">Kwiaty</label>
+  </div>
+
+  <div class="form-check-inline form-switch">
+    <input class="form-check-input" type="checkbox" id="zwierzeta" name="zwierzeta" checked (change)="filtrowanie(1)">
+    <label class="form-check-label" for="zwierzeta">Zwierzeta</label>
+  </div>
+
+  <div class="form-check-inline form-switch">
+    <input class="form-check-input" type="checkbox" id="auta" name="auta" checked (change)="filtrowanie(2)">
+    <label class="form-check-label" for="auta">Auta</label>
+  </div>
+  <div>
+      <div *ngFor="let element of tablica" class="doLewej">
+        <div *ngIf="checki[0] == true && element.category == 1">
+          <img [src] = "'assets/'+element.filename">
+          <h4>{{ element.downloads }}</h4>
+          <button class="btn btn-success" (click)="pobierz(element)">Pobierz</button>
+        </div>
+        <div *ngIf="checki[1] == true && element.category == 2">
+          <img [src] = "'assets/'+element.filename">
+          <h4>{{ element.downloads }}</h4>
+          <button class="btn btn-success" (click)="pobierz(element)">Pobierz</button>
+        </div>
+        <div *ngIf="checki[2] == true && element.category == 3">
+          <img [src] = "'assets/'+element.filename">
+          <h4>{{ element.downloads }}</h4>
+          <button class="btn btn-success" (click)="pobierz(element)">Pobierz</button>
+        </div>
+    </div>
+  </div>
+</div>

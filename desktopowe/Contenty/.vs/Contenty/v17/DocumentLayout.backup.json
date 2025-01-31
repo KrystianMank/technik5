@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\contenty\\contenty\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|solutionrelative:contenty\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\contenty\\contenty\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|solutionrelative:contenty\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\contenty\\contenty\\usercontrol1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|solutionrelative:contenty\\usercontrol1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\contenty\\contenty\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|solutionrelative:contenty\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|c:\\users\\egzamin\\documents\\technik5\\desktopowe\\contenty\\contenty\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EC395D9-F6A2-4AD9-9665-A49781968949}|Contenty\\Contenty.csproj|solutionrelative:contenty\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "Contenty\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl1.xaml.cs",
+              "RelativeToolTip": "Contenty\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:06:31.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl2.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl2.xaml",
+              "RelativeDocumentMoniker": "Contenty\\UserControl2.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl2.xaml*",
+              "RelativeToolTip": "Contenty\\UserControl2.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T08:01:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "Contenty\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\UserControl1.xaml",
+              "RelativeToolTip": "Contenty\\UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T08:01:07.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Contenty\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\MainWindow.xaml",
+              "RelativeToolTip": "Contenty\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T07:58:57.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Contenty\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\Documents\\technik5\\desktopowe\\Contenty\\Contenty\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Contenty\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:58:57.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
