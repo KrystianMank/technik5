@@ -1,0 +1,22 @@
+﻿<Window x:Class="Czas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Czas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label Content="Podaj dzień: " HorizontalAlignment="Center"/>
+            <TextBox x:Name="dzienTextBox" Width="150px"/>
+            <Label Content="Podaj miesiąc: " HorizontalAlignment="Center"/>
+            <TextBox x:Name="miesiacTextBox" Width="150px"/>
+            <Label Content="Podaj rok: " HorizontalAlignment="Center"/>
+            <TextBox x:Name="rokTextBox" Width="150px"/>
+            <Button Content="Utwórz datę" Width="100px" Margin="20" Height="25px" Click="Button_Click"/>
+            
+        </StackPanel>
+
+    </Grid>
+</Window>
