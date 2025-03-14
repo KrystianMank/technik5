@@ -18,7 +18,7 @@
         <button class="btn btn-success" (click)="editNote(note)">Edytuj</button>
         <button class="btn btn-danger" (click)="deleteNote(note.id)">Kasuj</button>
       </div>
-      <img *ngIf="note.image" [src]="'http://localhost:3000' + note.image">
+      <img *ngIf="note.image" [src]="'http://localhost:5000' + note.image">
     </div>
   </div>
 </div>
