@@ -1,0 +1,25 @@
+<div class="container">
+  <form class="form-control" [formGroup]="noteForm" (ngSubmit)="saveNote()">
+    <h3>Dodawanie notatek</h3>
+    <input class="form-control" formControlName="title" placeholder="Wpisz tytuł" required>
+    <input class="form-control" formControlName="content" placeholder="Wpisz treść" required>
+    <input class="form-control" type="file" (change)="onFileChange($event)" accept="images/*">
+    <button class="btn btn-primary" type="submit"> {{ editNoteId ? "Zapisz zmiany" : "Dodaj notatkę" }} </button>
+    <button class="btn btn-primary" *ngIf="editNoteId" (click)="editNoteId = null; noteForm.reset()">Anuluj</button>
+  </form>
+</div>
+<br>
+<div class="row">
+  <div *ngFor="let note of notes" class="col-md-4 mb-4">
+    <div class="card">
+      <div class="card-body text-center">
+        <h4>{{ note.title }}</h4>
+        <p>{{ note.content }}</p>
+        <button class="btn btn-success" (click)="editNote(note)">Edytuj</button>
+        <button class="btn btn-danger" (click)="deleteNote(note.id)">Kasuj</button>
+      </div>
+      <img *ngIf="note.image" [src]="'http://localhost:3000' + note.image">
+    </div>
+  </div>
+</div>
+<router-outlet/>
